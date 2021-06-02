@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LESSON_27_STREAMS", "LESSON_27_STREAMS\LESSON_27_STREAMS.vcxproj", "{D3AC340D-2D5F-4835-B985-7972075836E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AC340D-2D5F-4835-B985-7972075836E7}.Debug|x64.ActiveCfg = Debug|x64
+		{D3AC340D-2D5F-4835-B985-7972075836E7}.Debug|x64.Build.0 = Debug|x64
+		{D3AC340D-2D5F-4835-B985-7972075836E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3AC340D-2D5F-4835-B985-7972075836E7}.Debug|x86.Build.0 = Debug|Win32
+		{D3AC340D-2D5F-4835-B985-7972075836E7}.Release|x64.ActiveCfg = Release|x64
+		{D3AC340D-2D5F-4835-B985-7972075836E7}.Release|x64.Build.0 = Release|x64
+		{D3AC340D-2D5F-4835-B985-7972075836E7}.Release|x86.ActiveCfg = Release|Win32
+		{D3AC340D-2D5F-4835-B985-7972075836E7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {569CE8E8-E1A8-4D33-878B-7BDB1544AF85}
+	EndGlobalSection
+EndGlobal
